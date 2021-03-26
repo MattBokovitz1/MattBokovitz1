@@ -1,6 +1,6 @@
 ### Hello There! 👋
 
-Hi, I'm Matt! I'm a full-stack web developer who is passionate about developing websites that are simple for the user to navigate through, and bringing people together from every background. 
+Hi, I'm Matt! I'm a full-stack web developer who is passionate about developing websites that are simple for the user to navigate through, and bringing people together. 
 
 - 🔭  I’m currently working on a react web app that allows lawyers to search database of law cases, and provides provides prediction of how judge might rule based upon judge's prior decisions. 
 - 🌱  I’m currently learning Python through CodeSignal

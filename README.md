@@ -6,6 +6,6 @@ Hi, I'm Matt! I'm a full-stack web developer who is passionate about developing 
 - 🌱  I’m currently learning Python through CodeSignal
 -     Skills: React, Node.js, Express, JavaScript, Python, HTML, CSS, PostgreSQL, REST, Git
 - 📫  How to reach me: matt.bokovitz1@gmail.com
-- 
+
 - ⚡ Fun fact: I play rugby, and I love its ability to bring people together
 

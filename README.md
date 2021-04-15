@@ -1,4 +1,4 @@
-### Hello There! 👋
+### Hey! 👋
 
 Hi, I'm Matt! I'm a full-stack web developer who is passionate about developing websites that are simple for the user to navigate through, and bringing people together. 
 

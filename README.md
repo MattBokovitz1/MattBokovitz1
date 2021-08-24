@@ -9,7 +9,7 @@ I am currently looking for a front end web developer role. I am passionate about
 
 - 🌱  I’m currently learning Python through CodeSignal and making apps using React-Native through Expo. 
 
-- 🔭  Skills: HTML, CSS, JavaScript, Python, React, Redux,  Axios, Node.js, Express, PostgreSQL, SQL, Knex, Git
+- 🔭  Skills: HTML, CSS, JavaScript, Python, React, Redux,  Axios, Node.js, Express, PostgreSQL, SQL, Knex, Git, React Native
 
 - 📫  How to reach me: matt.bokovitz1@gmail.com
 

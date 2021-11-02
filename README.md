@@ -1,7 +1,7 @@
 ### Hey! 👋
 
 Hi, I'm Matt! I'm a front end web developer who is passionate about developing websites that bring people together and are simple for the user to use. 
-I am currently looking for a front end web developer role. I am passionate about working at a small to medium sized start-up, and making a significant contribution to an interesting, complex project. 
+I am currently looking for a front end web developer role. 
 
 - 🌱  From September 2020 - April 2021, I completed the curriculum at Lambda School, and was able to learn front end and back end skills. In April, I officially graduated.
 

@@ -7,11 +7,11 @@ I am currently looking for a front end web developer role.
 
 - 🔭  In April 2021, I finished working on a react web app that allows lawyers to search database of law cases, and provides prediction of how judge might rule based upon judge's prior decisions. Lawyers also have ability to upload PDF file which is scraped by an OCR for information that will populate the database. 
 
-- I began working at Northwestern Mutual in April 2022 as an Associate Software Engineer, maintaining and improving existing codebases by writing well documented and tested code.
+- Since April 2022, I have been an Associate Software Engineer at Northwestern Mutual, maintaining and improving existing codebases by writing well documented and tested code.
 
 - 🌱  I’m currently learning Python through CodeSignal and making apps using React-Native through Expo. 
 
-- 🔭  Skills: HTML, CSS, JavaScript, TypeScript, Python, React, Redux, Axios, Node.js, Express, PostgreSQL, SQL, MySQL, Knex, Git, Data Structures & Algorithms.
+- 🔭  Skills: HTML, CSS, JavaScript, TypeScript, Python, React, Redux, Axios, Node.js, Express, PostgreSQL, SQL, MySQL, Jest, Git, Data Structures & Algorithms.
 
 - 📫  How to reach me: matt.bokovitz1@gmail.com
 

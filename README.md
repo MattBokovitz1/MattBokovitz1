@@ -5,11 +5,13 @@ I am currently looking for a front end web developer role.
 
 - 🌱  From September 2020 - April 2021, I completed the curriculum at Lambda School, and learned front-end and back-end web development skills. In April, I officially graduated.
 
-- 🔭  I recently finished working on a react web app that allows lawyers to search database of law cases, and provides prediction of how judge might rule based upon judge's prior decisions. Lawyers also have ability to upload PDF file which is scraped by an OCR for information that will populate the database.
+- 🔭  In April 2021, I finished working on a react web app that allows lawyers to search database of law cases, and provides prediction of how judge might rule based upon judge's prior decisions. Lawyers also have ability to upload PDF file which is scraped by an OCR for information that will populate the database. 
+
+- I began working at Northwestern Mutual in April 2022 as an Associate Software Engineer, maintaining and improving existing codebases by writing well documented and tested code.
 
 - 🌱  I’m currently learning Python through CodeSignal and making apps using React-Native through Expo. 
 
-- 🔭  Skills: HTML, CSS, JavaScript, Python, React, Redux,  Axios, Node.js, Express, PostgreSQL, SQL, Knex, Git, React Native, Data Structures & Algorithms
+- 🔭  Skills: HTML, CSS, JavaScript, TypeScript, Python, React, Redux, Axios, Node.js, Express, PostgreSQL, SQL, MySQL, Knex, Git, Data Structures & Algorithms.
 
 - 📫  How to reach me: matt.bokovitz1@gmail.com
 

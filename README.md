@@ -9,7 +9,7 @@ I am currently looking for a front end web developer role.
 
 - Since April 2022, I have been an Associate Software Engineer at Northwestern Mutual, maintaining and improving existing codebases by writing well documented and tested code.
 
-- 🌱  I’m currently learning Python through CodeSignal and making apps using React-Native through Expo. 
+- 🌱  I’m currently learning Next.js through a udemy course and building projects with this technology in my spare time. 
 
 - 🔭  Skills: HTML, CSS, JavaScript, TypeScript, Python, React, Redux, Axios, Node.js, Express, PostgreSQL, SQL, MySQL, Jest, Git, Data Structures & Algorithms.
 

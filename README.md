@@ -2,7 +2,7 @@
 
 Hi, I'm Matt! I'm a Full-Stack Web Developer! I'm passionate about developing websites that bring people together, share knowledge, are beautiful, and intuitive. Like many developers, I'm learning more about GPTs, AI/ML, and Python in my freetime. 
 
-- 🔭  Skills: HTML, CSS, JavaScript, TypeScript, Python, React, React Testing Library, Redux, Axios, Node.js, Express, PostgreSQL, SQL, MySQL, Jest, Git, Jira, Data Structures & Algorithms.
+- 🔭  Skills: HTML, CSS, JavaScript, TypeScript, Python, React, React Testing Library, Redux, Node.js, Express, MySQL, Jest, Git, Data Structures & Algorithms.
 
 - 📫  How to reach me: matt.bokovitz1@gmail.com
 
